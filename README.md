@@ -35,6 +35,8 @@ Frameworks
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Avalonia](https://img.shields.io/badge/Avalonia%20UI-8B44AC?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -67,7 +69,8 @@ Data and Analytics
 |---|---|---|
 | [Crowdsourced Ideation Solution API](https://github.com/lilianlaime2-hash/Crowdsourced-Ideation-Solution---API) | REST API for topics, ideas, votes and statistics. It validates JWTs issued by the Users API and was migrated from MySQL to MongoDB. Includes unit and integration tests and a GitLab CI pipeline. Team capstone project. | C# · .NET 10 · MongoDB · MySQL · Docker |
 | [Users API](https://github.com/lilianlaime2-hash/Users---API) | Authentication and authorization service with JWT, documented with Swagger/OpenAPI, with JaCoCo test coverage. Team capstone project. | Java · Spring Boot · JWT · Maven |
-| [Pacman MVVM](https://github.com/lilianlaime2-hash/Capstone-ProgrammingIII) | Cross-platform desktop game built with a clean MVVM architecture, using reactive bindings, commands and testable ViewModels with no code-behind. | C# · Avalonia UI · MVVM |
+| [Bank Loans Module](https://github.com/lilianlaime2-hash/-bank-loans-module) | Desktop banking app that manages the full life cycle of a loan, with eligibility scoring, payment plans, reports and email notifications. Built with Clean Architecture and TDD. Team capstone project. | Java · JavaFX · Hibernate / JPA · MySQL |
+| [Pac-Man MVVM](https://github.com/lilianlaime2-hash/pacman-replication-avalonia-mvvm) | Cross-platform desktop game built with a clean MVVM architecture, using reactive bindings, commands and testable ViewModels with no code-behind. | C# · Avalonia UI · MVVM |
 | [Personal Portfolio](https://mi-portafolio-three-beta.vercel.app) | My portfolio website ([source](https://github.com/lilianlaime2-hash/MiPortafolio)). | React · Vite · Tailwind CSS |
 
 ---
