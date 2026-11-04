@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a Software Engineering student at Jala University with a background in Organizational Psychology. I like working where code meets people. I build software that is reliable on the inside and useful for the people on the outside.
+I'm a Software Engineering student at Jala University with a background in Human Talent Management and a specialization in Business Management. I like working where code meets people. I build software that is reliable on the inside and useful for the people on the outside.
 
 - 🔭 Building REST APIs with C# / .NET and Java / Spring Boot
 - 🌱 Learning database migrations from MySQL to MongoDB, CI/CD pipelines and People Analytics
